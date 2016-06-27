@@ -1,4 +1,5 @@
 Haskell Sliding Puzzle
+======================
 
 There is a docker file included in the distribution.  You can try out the
 sliding puzzle using commands shown below.
